@@ -21,4 +21,3 @@ while (i != 0):
     answer = response.choices[0].text.strip()
     conversation += answer
     print("AI: " + answer + "\n")
-  
